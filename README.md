@@ -1,4 +1,4 @@
 # FanChangGo
-翻唱歌 FanChangGo - 中文翻唱曾振鍛 Chinese-language covers database
+翻唱歌 FanChangGo - 中文翻唱資料庫 Chinese-language covers database
 
 
